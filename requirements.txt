@@ -1,0 +1,11 @@
+streamlit
+transformers
+sentence-transformers
+googletrans==4.0.0rc1
+pyttsx3
+torch
+accelerate
+deep-translator
+openai
+google-generativeai
+together
