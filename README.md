@@ -2,7 +2,7 @@
 AI-Driven Precision Agriculture & Irrigation Advisory System  
 
 ## 📌 Overview  
-KhetAI is an AI-powered precision agriculture platform that empowers farmers with data-driven insights to optimize irrigation, monitor soil health, predict crop diseases, and access localized market trends. Designed for scalability and rural accessibility, the system combines **IoT sensors**, **AI/ML models**, and **voice/chat interfaces** for effective and inclusive agricultural decision-making.  
+KhetAI is an AI-powered precision agriculture platform that empowers farmers with data-driven insights to optimize irrigation, monitor soil health, predict crop diseases, and access localized market trends. Designed for scalability and rural accessibility, the system combines **AI/ML models**, **voice/chat interfaces** and **IoT sensors(future scope)** for effective and inclusive agricultural decision-making.  
 
 ---
 
