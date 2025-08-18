@@ -1,4 +1,4 @@
-# KhetAI 🌱  
+# KhetAI - SmartFarmingCompanion 🌱  
 AI-Driven Precision Agriculture & Irrigation Advisory System  
 
 ## 📌 Overview  
