@@ -26,12 +26,11 @@ KhetAI is an AI-powered precision agriculture platform that empowers farmers wit
 ---
 
 ## ⚙️ Tech Stack  
-- **Backend**: Python (FastAPI / Flask)  
-- **Frontend**: React / Streamlit (farmer-friendly UI)  
-- **Database**: PostgreSQL / MongoDB  
+- **Backend**: Python 
+- **Frontend**: Streamlit (farmer-friendly UI)  
+- **Database**: Data collected from https://www.data.gov.in/
 - **AI/ML**: Scikit-learn, TensorFlow, PyTorch  
-- **IoT**: Arduino / ESP32, LoRaWAN for low-cost deployment  
-- **Deployment**: Docker, Kubernetes, Cloud (AWS/Azure)  
+- **Deployment[Future Scope]**: Docker, Kubernetes, Cloud (AWS/Azure)  
 
 ---
 
